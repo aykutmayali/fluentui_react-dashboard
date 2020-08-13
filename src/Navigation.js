@@ -59,6 +59,34 @@ const links = [
                         }
                     }
                 }
+            },
+            {
+                name:'Beacon',
+                url:'/',
+                key:'key5',
+                iconProps:{
+                    iconName:'BeaconSettings',
+                    styles: {
+                        root: {
+                            fontSize:20,
+                            color: '#106ebe',
+                        }
+                    }
+                }
+            },
+            {
+                name:'Gateway',
+                url:'/',
+                key:'key6',
+                iconProps:{
+                    iconName:'GatewaySettings',
+                    styles: {
+                        root: {
+                            fontSize:20,
+                            color: '#106ebe',
+                        }
+                    }
+                }
             }
         ]
     }
