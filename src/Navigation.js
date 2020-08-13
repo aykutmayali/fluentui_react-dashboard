@@ -65,7 +65,7 @@ const links = [
                 url:'/',
                 key:'key5',
                 iconProps:{
-                    iconName:'BeaconSettings',
+                    iconName:'Beacon',
                     styles: {
                         root: {
                             fontSize:20,
@@ -79,7 +79,7 @@ const links = [
                 url:'/',
                 key:'key6',
                 iconProps:{
-                    iconName:'GatewaySettings',
+                    iconName:'Modem',
                     styles: {
                         root: {
                             fontSize:20,
